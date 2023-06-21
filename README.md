@@ -1,1 +1,3 @@
 # Housepricetashkent
+
+# Simple Linear Regression
